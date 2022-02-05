@@ -1,0 +1,6 @@
+C:\Users\user\RiderProjects\combinatorics\combinatorics\bin\Debug\combinatorics.dll
+C:\Users\user\RiderProjects\combinatorics\combinatorics\bin\Debug\combinatorics.pdb
+C:\Users\user\RiderProjects\combinatorics\combinatorics\obj\Debug\combinatorics.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\combinatorics\combinatorics\obj\Debug\combinatorics.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\combinatorics\combinatorics\obj\Debug\combinatorics.dll
+C:\Users\user\RiderProjects\combinatorics\combinatorics\obj\Debug\combinatorics.pdb

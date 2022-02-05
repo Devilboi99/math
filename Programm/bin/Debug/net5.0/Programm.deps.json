@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programm/1.0.0": {
+        "dependencies": {
+          "combinatorics": "1.0.0"
+        },
+        "runtime": {
+          "Programm.dll": {}
+        }
+      },
+      "combinatorics/1.0.0": {
+        "runtime": {
+          "combinatorics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "combinatorics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

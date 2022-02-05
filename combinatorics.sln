@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combinatorics", "combinatorics\combinatorics.csproj", "{F53895BD-29C4-4F9F-B6B6-0F57D325F5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programm", "Programm\Programm.csproj", "{C3E8FCBB-97BF-4A47-8ACC-71483374ECED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53895BD-29C4-4F9F-B6B6-0F57D325F5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53895BD-29C4-4F9F-B6B6-0F57D325F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53895BD-29C4-4F9F-B6B6-0F57D325F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53895BD-29C4-4F9F-B6B6-0F57D325F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E8FCBB-97BF-4A47-8ACC-71483374ECED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E8FCBB-97BF-4A47-8ACC-71483374ECED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E8FCBB-97BF-4A47-8ACC-71483374ECED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E8FCBB-97BF-4A47-8ACC-71483374ECED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
